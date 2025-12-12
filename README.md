@@ -3,7 +3,7 @@
 **Third-year CS student** specializing in Application Development @ Metz  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-orphe.dev-blue?style=flat-square)](https://orphe.dev)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mEYggTbE)
+[![Discord profile](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/361180047320678401)
 
 ---
 
