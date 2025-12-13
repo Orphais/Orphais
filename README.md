@@ -1,9 +1,27 @@
-# Hey, I'm Orphé 👋
+<div align="center">
 
-**Third-year CS student** specializing in Application Development @ Metz  
+# 👋 Hey, I'm Orphé
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-orphe.dev-blue?style=flat-square)](https://orphe.dev)
-[![Discord profile](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/361180047320678401)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Third-year+CS+Student+%40+Metz;Full-Stack+Developer;Passionate+about+Web+Development;Always+learning+new+technologies)](https://git.io/typing-svg)
+
+**Specializing in Application Development** | **Symfony Enthusiast** | **Open Source Contributor**
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-orphe.dev-00ADD8?style=for-the-badge)](https://orphe.dev)
+[![Discord](https://img.shields.io/badge/Discord-Orphais-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/361180047320678401)
+[![GitHub](https://img.shields.io/badge/GitHub-Orphais-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Orphais)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@orphe.dev)
+
+![Profile Views](https://komarev.com/ghpvc/?username=orphais&color=58A6FF&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -100,4 +118,28 @@ E-commerce application with mobile app for selling holiday accessories.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=orphais&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=orphais&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orphais&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Orphais/Orphais/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Orphais/Orphais/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Orphais/Orphais/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
