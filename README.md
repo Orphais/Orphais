@@ -16,10 +16,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-orphe.dev-00ADD8?style=for-the-badge)](https://orphe.dev)
 [![Discord](https://img.shields.io/badge/Discord-Orphais-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/361180047320678401)
-[![GitHub](https://img.shields.io/badge/GitHub-Orphais-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Orphais)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@orphe.dev)
-
-![Profile Views](https://komarev.com/ghpvc/?username=orphais&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -55,11 +51,11 @@ Full-featured e-commerce platform built with Symfony for selling water pistols.
 **Tech Stack:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-339933?style=flat-square&logo=twig&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 🐳 Docker environment
 - 🛒 Complete e-commerce features
-- 📦 MIT License
+- 🔐 User authentication
+- 📊 Admin dashboard
 
 [View Project →](https://github.com/Orphais/PistoletAEau-ECommerceSymfony)
 
